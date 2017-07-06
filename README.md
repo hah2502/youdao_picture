@@ -1,1 +1,1 @@
-# youdao_picture
+# this is for youdao picture URL
